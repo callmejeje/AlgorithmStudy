@@ -1,8 +1,5 @@
 # AlgorithmStudy
 어떻게 쓰는 걸까요 이건?
-# JS-Array-Challenge
-
-## 자바스크립트 배열을 마스터 해보자!
 
 ### 문제 풀기
 
