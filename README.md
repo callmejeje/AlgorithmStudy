@@ -1,3 +1,4 @@
+<div align = center>
 # AlgorithmStudy
 어떻게 쓰는 걸까요 이건?
 
