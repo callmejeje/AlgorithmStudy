@@ -1,4 +1,4 @@
-<div align = center>
+
 # AlgorithmStudy
 어떻게 쓰는 걸까요 이건?
 
@@ -10,5 +10,3 @@
 4. 문제를 푸신 후 git add  -> git commit -m '원하시는 메세지' -> git push 를 진행해주세여
 5. push까지 완료되셨으면, fork한 레포지토리로 하셔서 pull-request 요청을 해주세요
 (contribute -> Open pull request -> Create pull request -> Create pull request)
-6. 본인이 fork하신 레포지토리로 가셔서 #code 화살표#(초록색) 아래 보시면 Fetch upStream이라구 있습니다
-그걸 누르시면 Fetch and Merge라고 있는데 그걸 누르시면 커밋내용과 합쳐진다 하네요 화이팅!
