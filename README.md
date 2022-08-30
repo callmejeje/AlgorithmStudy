@@ -29,7 +29,7 @@
 커밋 메세지 양식을 지켜주셔야 다른 분이 코드 리뷰할 때 해당 문제가 몇번 문제인지 확인할 수 있습니다.<br/><br/>
 ![image](https://user-images.githubusercontent.com/104412610/187356199-a6626cf4-cb3b-4071-9738-18ada8a997b5.png)
 
-6. push까지 완료하셨다면 이제 본인이 포크한 레포지토리로 이동합니다.이동 후 아래 사진에 표시된 pull request를 눌러주시고 아래 순서대로 진행해주시면 됩니다.
+6. push까지 완료하셨다면 이제 본인이 포크한 레포지토리로 이동합니다.이동 후 아래 사진에 표시된 pull request를 눌러주시고 아래 순서대로 진행해주시면 됩니다.(pull request는 주에 한번만 진행)
 <img width="1413" alt="image" src="https://user-images.githubusercontent.com/104412610/187356839-fd91522e-3fa3-4dbb-8038-c82ea7cf0c08.png">
 <img width="1335" alt="스크린샷 2022-08-30 오후 2 30 32" src="https://user-images.githubusercontent.com/104412610/187357196-a6a7bd7b-f964-42bc-ba31-97d43253559f.png">
 
@@ -50,3 +50,14 @@
 <img width="846" alt="스크린샷 2022-08-30 오후 2 39 21" src="https://user-images.githubusercontent.com/104412610/187359002-08392966-5242-485d-99de-386d546e2fd4.png">
 
 <img width="1391" alt="스크린샷 2022-08-30 오후 2 46 34" src="https://user-images.githubusercontent.com/104412610/187359239-26b9c156-790a-466b-948e-2baf7ccf4499.png">
+
+<img width="1117" alt="스크린샷 2022-08-30 오후 2 49 29" src="https://user-images.githubusercontent.com/104412610/187359566-ce64ccb4-7b76-4411-8d2f-299e6016f58e.png">
+
+표시된 상자를 누르시면 submit review 버튼이 생긴 창이 하나 나오는 데 그것까지 클릭해주시면 됩니다.
+<img width="1128" alt="스크린샷 2022-08-30 오후 2 51 20" src="https://user-images.githubusercontent.com/104412610/187359954-f884f05c-ec60-4288-ab6e-1c886e1b9d51.png">
+
+
+누군가 먼저 해당 파일에 대해 코멘트를 달았으면 위 과정은 안하셔도 되고 아래 화면 input창에다 원하는 코멘트를 써주시면 됩니다.
+<img width="1128" alt="스크린샷 2022-08-30 오후 2 51 20" src="https://user-images.githubusercontent.com/104412610/187360263-9a43567a-1fb7-469e-a0b8-9b474616d305.png">
+
+
