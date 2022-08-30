@@ -39,4 +39,14 @@
 
 8. 위 과정이 완료되었다면, 원본 레포지토리의 Pull requests에 들어가시면 본인이 올린 Pull Request와 다른 분들이 올린 pull request를 확인할 수 있습니다<br/>
    주가 바뀔 때마다 제가 merge를 해서 원본 레포에 업데이트해드릴 예정입니다. merge를 하면 해당 주차에 올리신 pull request가 사라지니 매주 제가 말씀드리면 pull request 한번씩 부탁드리겠습니다.
+   2주차 시작 때 pull request를 먼저 해두시고, 해당 주차에 관한 문제들은 작업 후 git push를 하시면 pull request엔 자동으로 해당 목록이 추가됩니다.
+   그러므로 주차별로 한번만 Pull request를 하시면 됩니다. 
 <img width="1399" alt="스크린샷 2022-08-30 오후 2 34 44" src="https://user-images.githubusercontent.com/104412610/187357796-5f678f9f-fd15-437e-89ae-aa3eb0c250dc.png">
+
+## 코드리뷰 하는법
+
+1. 다른 사람의 pull request를 들어간다.
+2. 코드리뷰를 작성하고 싶은 커밋메세지를 클릭한다.
+<img width="846" alt="스크린샷 2022-08-30 오후 2 39 21" src="https://user-images.githubusercontent.com/104412610/187359002-08392966-5242-485d-99de-386d546e2fd4.png">
+
+<img width="1391" alt="스크린샷 2022-08-30 오후 2 46 34" src="https://user-images.githubusercontent.com/104412610/187359239-26b9c156-790a-466b-948e-2baf7ccf4499.png">
