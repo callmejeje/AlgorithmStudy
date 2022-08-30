@@ -31,4 +31,5 @@
 
 6. push까지 완료하셨다면 이제 본인이 포크한 레포지토리로 이동합니다.이동 후 아래 사진에 표시된 pull request를 눌러주시고 아래 순서대로 진행해주시면 됩니다.
 <img width="1413" alt="image" src="https://user-images.githubusercontent.com/104412610/187356839-fd91522e-3fa3-4dbb-8038-c82ea7cf0c08.png">
-![image](https://user-images.githubusercontent.com/104412610/187357156-819093b2-2f3c-4306-8c3f-769dd43c6a58.png)
+<img width="1335" alt="스크린샷 2022-08-30 오후 2 30 32" src="https://user-images.githubusercontent.com/104412610/187357196-a6a7bd7b-f964-42bc-ba31-97d43253559f.png">
+
