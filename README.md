@@ -33,3 +33,7 @@
 <img width="1413" alt="image" src="https://user-images.githubusercontent.com/104412610/187356839-fd91522e-3fa3-4dbb-8038-c82ea7cf0c08.png">
 <img width="1335" alt="스크린샷 2022-08-30 오후 2 30 32" src="https://user-images.githubusercontent.com/104412610/187357196-a6a7bd7b-f964-42bc-ba31-97d43253559f.png">
 
+
+7. 아래 폼과 같이 제목을 입력해주시고 Create pull request를 하시면 됩니다.
+<img width="1290" alt="스크린샷 2022-08-30 오후 2 33 21" src="https://user-images.githubusercontent.com/104412610/187357445-c90add2a-8580-48e4-b5f8-50879840263a.png">
+
