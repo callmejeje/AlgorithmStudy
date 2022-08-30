@@ -21,7 +21,7 @@
 
 
 
-4. 학습하는 주의 폴더에서 학습하신 문제를 푸시면 됩니다.(문제 번호.js)
+4. 학습하는 주의 폴더에서 학습하신 문제를 푸시면 됩니다.(문제 번호.js) <br/>
 ![image](https://user-images.githubusercontent.com/104412610/187355540-d2657217-f4dc-45bf-8534-f3dbebca831c.png)
 
 5. 문제를 푸셨으면 그때그떄 add와 commit,push을 진행해주세요 ex) git add '학습한 문제' 와 git commit -m '해당 주차 문제번호 풀이 완료(ex : '1주차 2588번 완료') 
