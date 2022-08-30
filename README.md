@@ -29,5 +29,6 @@
 커밋 메세지 양식을 지켜주셔야 다른 분이 코드 리뷰할 때 해당 문제가 몇번 문제인지 확인할 수 있습니다.<br/><br/>
 ![image](https://user-images.githubusercontent.com/104412610/187356199-a6626cf4-cb3b-4071-9738-18ada8a997b5.png)
 
-(contribute -> Open pull request -> Create pull request -> Create pull request)
+6. push까지 완료하셨다면 이제 본인이 포크한 레포지토리로 이동합니다.
+<img width="1413" alt="image" src="https://user-images.githubusercontent.com/104412610/187356839-fd91522e-3fa3-4dbb-8038-c82ea7cf0c08.png">
 
