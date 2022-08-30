@@ -37,3 +37,6 @@
 7. 아래 폼과 같이 제목을 입력해주시고 Create pull request를 하시면 됩니다.
 <img width="1290" alt="스크린샷 2022-08-30 오후 2 33 21" src="https://user-images.githubusercontent.com/104412610/187357445-c90add2a-8580-48e4-b5f8-50879840263a.png">
 
+8. 위 과정이 완료되었다면, 원본 레포지토리의 Pull requests에 들어가시면 본인이 올린 Pull Request와 다른 분들이 올린 pull request를 확인할 수 있습니다<br/>
+   주가 바뀔 때마다 제가 merge를 해서 원본 레포에 업데이트해드릴 예정입니다. merge를 하면 해당 주차에 올리신 pull request가 사라지니 매주 제가 말씀드리면 pull request 한번씩 부탁드리겠습니다.
+<img width="1399" alt="스크린샷 2022-08-30 오후 2 34 44" src="https://user-images.githubusercontent.com/104412610/187357796-5f678f9f-fd15-437e-89ae-aa3eb0c250dc.png">
