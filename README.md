@@ -58,6 +58,7 @@
 
 
 누군가 먼저 해당 파일에 대해 코멘트를 달았으면 위 과정은 안하셔도 되고 아래 화면 input창에다 원하는 코멘트를 써주시면 됩니다.
-<img width="1128" alt="스크린샷 2022-08-30 오후 2 51 20" src="https://user-images.githubusercontent.com/104412610/187360263-9a43567a-1fb7-469e-a0b8-9b474616d305.png">
+<img width="1178" alt="스크린샷 2022-08-30 오후 2 54 34" src="https://user-images.githubusercontent.com/104412610/187360552-979a23ba-e11a-45af-beaf-016d893175bc.png">
+
 
 
