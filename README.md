@@ -15,10 +15,13 @@
 ![image](https://user-images.githubusercontent.com/104412610/187352707-c74508dc-a4eb-49d0-98c7-5142d98021a9.png)
 
 
-3. 해당 폴더(본인 폴더)에 해당 주차 폴더를 만드시고 해당 폴더에서 문제를 작성해서 풀어주세요
+3. clone한 폴더의 본인 깃허브 닉네임 혹은 본인 이름의 폴더를 만들어주세요 -> 폴더를 만드셨으면 해당 폴더 내에 해당 학습 주차의 폴더를 만들어주세요
+![스크린샷 2022-08-30 오후 2 15 11](https://user-images.githubusercontent.com/104412610/187355382-b7341b13-bac9-4904-a079-505ca671bb2e.png)
+![스크린샷 2022-08-30 오후 2 17 25](https://user-images.githubusercontent.com/104412610/187355386-66422924-c258-43c2-b48a-3ebed0350c45.png)
+![image](https://user-images.githubusercontent.com/104412610/187355540-d2657217-f4dc-45bf-8534-f3dbebca831c.png)
 
 
-4. 문제를 푸신 후 git add  -> git commit -m '원하시는 메세지' -> git push 를 진행해주세여
+4. 학습하는 주의 폴더에서 학습하신 문제를 푸시면 됩니다.(문제 번호.js)
 
 
 5. push까지 완료되셨으면, fork한 레포지토리로 하셔서 pull-request 요청을 해주세요
